@@ -10,7 +10,7 @@ namespace SOSAQP.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Tu pagina de inicio";
+            ViewBag.Message = "Tu pagina de inicio 12";
             return View();
         }
 
